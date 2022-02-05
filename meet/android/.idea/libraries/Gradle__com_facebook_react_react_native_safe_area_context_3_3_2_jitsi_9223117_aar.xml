@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-safe-area-context:3.3.2-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/091fd2716df9a03e6bd4db78955fd801/transformed/jetified-react-native-safe-area-context-3.3.2-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/091fd2716df9a03e6bd4db78955fd801/transformed/jetified-react-native-safe-area-context-3.3.2-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/091fd2716df9a03e6bd4db78955fd801/transformed/jetified-react-native-safe-area-context-3.3.2-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-safe-area-context/3.3.2-jitsi-9223117/182050e96aee00a117c871ce8ee57059156e8498/react-native-safe-area-context-3.3.2-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

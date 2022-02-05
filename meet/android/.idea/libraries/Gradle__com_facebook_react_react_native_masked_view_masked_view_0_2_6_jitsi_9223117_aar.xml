@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-masked-view_masked-view:0.2.6-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/1245b6cdf7aa22b8c260b8888d28a03f/transformed/jetified-react-native-masked-view_masked-view-0.2.6-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/1245b6cdf7aa22b8c260b8888d28a03f/transformed/jetified-react-native-masked-view_masked-view-0.2.6-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/1245b6cdf7aa22b8c260b8888d28a03f/transformed/jetified-react-native-masked-view_masked-view-0.2.6-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-masked-view_masked-view/0.2.6-jitsi-9223117/3a7a19f728e5fe00dbe6949aaed39d86bdeb9e63/react-native-masked-view_masked-view-0.2.6-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

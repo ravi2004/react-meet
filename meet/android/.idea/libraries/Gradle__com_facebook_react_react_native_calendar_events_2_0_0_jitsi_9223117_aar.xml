@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-calendar-events:2.0.0-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/29b3b87567ed6eaea9d5189e86b931c8/transformed/jetified-react-native-calendar-events-2.0.0-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/29b3b87567ed6eaea9d5189e86b931c8/transformed/jetified-react-native-calendar-events-2.0.0-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/29b3b87567ed6eaea9d5189e86b931c8/transformed/jetified-react-native-calendar-events-2.0.0-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-calendar-events/2.0.0-jitsi-9223117/82c2b30ed98975149090f19f4940193e0b586b2c/react-native-calendar-events-2.0.0-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

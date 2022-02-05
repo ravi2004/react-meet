@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-video:5.1.1-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/66b2e1aca8585512957ba2ebb7f54173/transformed/jetified-react-native-video-5.1.1-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/66b2e1aca8585512957ba2ebb7f54173/transformed/jetified-react-native-video-5.1.1-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/66b2e1aca8585512957ba2ebb7f54173/transformed/jetified-react-native-video-5.1.1-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-video/5.1.1-jitsi-9223117/3f25a68ff5f90b68d24fc4fa87a9917596479686/react-native-video-5.1.1-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

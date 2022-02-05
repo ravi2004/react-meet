@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-get-random-values:1.7.0-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/43e1a4afcfc3cef4341edd955e4f3c4d/transformed/jetified-react-native-get-random-values-1.7.0-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/43e1a4afcfc3cef4341edd955e4f3c4d/transformed/jetified-react-native-get-random-values-1.7.0-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/43e1a4afcfc3cef4341edd955e4f3c4d/transformed/jetified-react-native-get-random-values-1.7.0-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-get-random-values/1.7.0-jitsi-9223117/4d5c85904d111fe86235c8138e8dceec21a02e22/react-native-get-random-values-1.7.0-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

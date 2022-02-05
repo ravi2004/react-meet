@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-webrtc:1.94.0-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/9ac6c807d98142be12849275ca71ae60/transformed/react-native-webrtc-1.94.0-jitsi-9223117/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/9ac6c807d98142be12849275ca71ae60/transformed/react-native-webrtc-1.94.0-jitsi-9223117/jars/libs/libjingle_peerconnection.so.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/9ac6c807d98142be12849275ca71ae60/transformed/react-native-webrtc-1.94.0-jitsi-9223117/jars/libs/libwebrtc.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/9ac6c807d98142be12849275ca71ae60/transformed/react-native-webrtc-1.94.0-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/9ac6c807d98142be12849275ca71ae60/transformed/react-native-webrtc-1.94.0-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-webrtc/1.94.0-jitsi-9223117/bf2aab15c5151eeb67730e3ae5616dfc83445daa/react-native-webrtc-1.94.0-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

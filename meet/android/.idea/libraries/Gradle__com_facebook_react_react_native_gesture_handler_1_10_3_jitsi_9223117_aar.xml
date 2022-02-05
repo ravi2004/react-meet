@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-gesture-handler:1.10.3-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/5e3c6f03753a63a3f879a32dff449a68/transformed/jetified-react-native-gesture-handler-1.10.3-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/5e3c6f03753a63a3f879a32dff449a68/transformed/jetified-react-native-gesture-handler-1.10.3-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/5e3c6f03753a63a3f879a32dff449a68/transformed/jetified-react-native-gesture-handler-1.10.3-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-gesture-handler/1.10.3-jitsi-9223117/761995c3e296ad82dab97b5ea2fbe5118df4d1c5/react-native-gesture-handler-1.10.3-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

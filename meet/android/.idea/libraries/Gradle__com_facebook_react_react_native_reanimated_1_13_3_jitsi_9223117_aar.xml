@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-reanimated:1.13.3-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/e3478de0249eba1ec5c22ccc696339b9/transformed/jetified-react-native-reanimated-1.13.3-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/e3478de0249eba1ec5c22ccc696339b9/transformed/jetified-react-native-reanimated-1.13.3-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/e3478de0249eba1ec5c22ccc696339b9/transformed/jetified-react-native-reanimated-1.13.3-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-reanimated/1.13.3-jitsi-9223117/7a92bb1c173b4b36e5ec9bd2904dd5ff17adc824/react-native-reanimated-1.13.3-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-amplitude:2.3.3-jitsi-9223117@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/26f91d0ea733aa46b14c87db307e38a8/transformed/jetified-react-native-amplitude-2.3.3-jitsi-9223117/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/26f91d0ea733aa46b14c87db307e38a8/transformed/jetified-react-native-amplitude-2.3.3-jitsi-9223117/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Gradle/caches/transforms-3/26f91d0ea733aa46b14c87db307e38a8/transformed/jetified-react-native-amplitude-2.3.3-jitsi-9223117/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-amplitude/2.3.3-jitsi-9223117/50a9f7c6f9264a6dc692cda5be6e2d7d41baed3a/react-native-amplitude-2.3.3-jitsi-9223117-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,28 @@
+{
+  "name": "@react-meet/meet",
+  "description": "Meet SDK wrapper for React Native.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ravi K Sharma",
+    "email": "ravi.kanchan2004@gmail.com"
+  },
+  "contributors": [
+  ],
+  "dependencies": {
+  },
+  "keywords": [
+    "Meet",
+    "meet",
+    "video",
+    "chat",
+    "call",
+    "voice",
+    "native",
+    "react",
+    "react-native",
+    "react-native-component"
+  ],
+  "license": "Apache-2.0",
+  "main": "index",
+  "nativePackage": true
+}
