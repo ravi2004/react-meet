@@ -4,11 +4,11 @@ export const MeetView = requireNativeComponent('RNMeetView');
 export const MeetModule = NativeModules.RNMeetModule;
 const call = MeetModule.call;
 
-MeetModule.call = (moptions) => {
-  moptions=moptions||{};
-  call(moptions);
+MeetModule.call = (options) => {
+  options = options || {};
+  call(options);
 }
 
-export default JitsiMeetModule;
+export default MeetModule;
 
 

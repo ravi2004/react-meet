@@ -1,1 +1,1 @@
-declare module '@react-meet/meet';
+declare module 'react-meet/meet';
